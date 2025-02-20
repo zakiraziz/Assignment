@@ -17,3 +17,13 @@ document.addEventListener("DOMContentLoaded", function () {
             }
         });
     });
+   // Hover effect for project items
+    document.querySelectorAll(".project-item").forEach(item => {
+        item.addEventListener("mouseenter", function () {
+            this.style.backgroundColor = "rgba(255, 255, 255, 0.3)";
+        });
+        item.addEventListener("mouseleave", function () {
+            this.style.backgroundColor = "rgba(255, 255, 255, 0.2)";
+        });
+    });
+});
