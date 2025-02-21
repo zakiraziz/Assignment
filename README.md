@@ -20,3 +20,25 @@ A Python game built using Pygame that allows two players to play tic-tac-toe.
 
  Feel free to contribute or suggest improvements! Thank you for visiting my portfolio. 😊
 
+### 🔹 Jacket Shop 🛍️
+An online store where users can buy various types of jackets.
+🔗 [View on GitHub](https://github.com/zakiraziz/fractal-tree)
+
+## 🚀 Getting Started
+To run this website locally:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/zakiraziz/portfolio-website.git
+   ```
+2. Navigate to the project folder:
+   ```bash
+   cd portfolio-website
+   ```
+3. Open `index.html` in a web browser.
+
+## 📢 Connect with Me
+- **GitHub**: [zakiraziz](https://github.com/zakiraziz)
+- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourhandle)
+
+💡
